@@ -1,5 +1,5 @@
 # Dodge-Or-Not-
-- A League of Legends Tool
+- A League of Legends Dodge Tool
 - This repo contains a modified version of the program I used to gather information for my website https://dodgeornot.herokuapp.com/
 - You can view an example of DodgeOrNot in action here: https://www.youtube.com/watch?v=Hhp5ifnRIn4
 
