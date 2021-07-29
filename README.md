@@ -9,4 +9,4 @@
   
 How does it work?
 
-- The program gathers data using Riots API and the python library cassiopeia(https://github.com/meraki-analytics/cassiopeia). The program then modifies and stores the information in python dictionaries which are later converted to pandas dataframs and styled. One extremely important library is roleml(https://github.com/Canisback/roleML) which classifies summoner roles far more accurately than the information provided through riots API.
+- The program gathers data using Riots API and the python library cassiopeia(https://github.com/meraki-analytics/cassiopeia). Next, it modifies and stores the information in python dictionaries which are later converted to pandas dataframs and styled. One extremely important library is roleml(https://github.com/Canisback/roleML) which classifies summoner roles far more accurately than the information provided through riots API.
