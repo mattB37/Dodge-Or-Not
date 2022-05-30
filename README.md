@@ -2,7 +2,7 @@ The website is no longer available.
 
 # Dodge-Or-Not-
 - A League of Legends Dodge Tool
-- This repo contains a modified version of the program I used to gather information for my website ~~https://dodgeornot.herokuapp.com/~~ (The website is no longer supported)
+- This repo contains a modified version of the program I used to gather information for my website ~~dodgeornot.herokuapp~~ (The website is no longer supported)
 - You can view an example of DodgeOrNot in action here: https://www.youtube.com/watch?v=Hhp5ifnRIn4
 
  What is DodgeOrNot?
